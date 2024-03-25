@@ -25,10 +25,17 @@
         },
         {
             "name": "Cookie Dough",
-            "calories" : 180,
+            "calories": 180,
             "type": "ice-cream",
             "ingredients": ["Choclate chips", "Cookie Dough", "Vanilla Base"],
             "image": "https://davidteague05.github.io/javascript-lab4/images/ice-cream-xtra2.svg"
+        },
+        {
+            "name": "Matcha Green Tea",
+            "calories": 164,
+            "type": "ice-cream",
+            "ingredients": ["Matcha", "Green Tea", "Vanilla Base"],
+            "image": "https://davidteague05.github.io/javascript-lab4/images/ice-cream-xtra1.svg"
         }
     ]
 }
