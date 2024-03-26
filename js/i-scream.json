@@ -34,7 +34,7 @@
             "name": "Matcha Green Tea",
             "calories": 164,
             "type": "ice-cream",
-            "ingredients": ["Matcha", "Green Tea", "Vanilla Base"],
+            "ingredients": ["Green Tea", "Sprinkles", "Vanilla Base"],
             "image": "https://davidteague05.github.io/javascript-lab4/images/ice-cream-xtra1.svg"
         }
     ]
